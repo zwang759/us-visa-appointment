@@ -1,7 +1,8 @@
 const puppeteer = require('puppeteer');
 
 const APPOINTMENT_ID = "";
-const CONSULAR_ID = "";
+// Vancouver
+const CONSULAR_ID = "95";
 const REGION = "ca";
 const E_MAIL = "";
 const PASSWORD = "";
